@@ -1,3 +1,3 @@
-My graduation thesis from HUFLIT focuses on enhancing the YOLOv8 detection model.
+The project was completed using Google Colab.
 
 Combining lesson learnt from Big Data with EfficientNet.
